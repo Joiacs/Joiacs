@@ -10,7 +10,7 @@
 - I have experience in:
     1. HTML
     2. CSS and Bootstrap
-    3. Javascript
+    3. JavaScript
     4. Python
     5. C++
     6. SQL with MySQL
