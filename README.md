@@ -3,7 +3,7 @@
 - 👋 Hi, My name is Joseph Iacono
 
 - I’m interested in:
-    1. Full stack sowfware development
+    1. Full-stack sowfware development
     2. Mechanical engineering
     3. Aerospace engineering
     
@@ -20,10 +20,6 @@
     2. React
     3. Ruby on Rails
     4. Flutter and Dart (app developement)
-
-- 📫 How to reach me:
-    1. Email: josephiacono5@gmail.com
-    2. Text: 438-926-5009
 
 <!---
 Joiacs/Joiacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
