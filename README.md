@@ -3,7 +3,7 @@
 - 👋 Hi, My name is Joseph Iacono
 
 - I’m interested in:
-    1. Full-stack sowfware development
+    1. Full-stack software development
     2. Mechanical engineering
     3. Aerospace engineering
     
