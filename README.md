@@ -1,25 +1,28 @@
-# About Me
+### Hi There 👋
 
-- 👋 Hi, My name is Joseph Iacono
+My name is Joseph and I'm from Canada.
 
-- I’m interested in:
-    1. Full-stack software development
-    2. Mechanical engineering
-    3. Aerospace engineering
+### About Me
+
+- 💬 My education: Bachelor of Engineering degree, Mechanical Engineering at McGill University
     
-- I have experience in:
-    1. HTML
-    2. CSS and Bootstrap
-    3. JavaScript
-    4. Python
-    5. C++
-    6. SQL with MySQL
+- 💻 I have experience with HTML, CSS, JS, Bootstrap, Python, C++, and MySQL
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,cpp,mysql" />
+  </a>
+</p>
  
-- I’m currently learning:
-    1. Go/Golang
-    2. React
-    3. Ruby on Rails
-    4. Flutter and Dart (app developement)
+- 🌱 I’m currently learning:
+    1. Go/Golang and React for an internship
+    2. Flutter and Dart for app development
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,react,flutter,dart" />
+  </a>
+</p>
+
+- 📫 You can reach me at my email, josephiacono5@gmail.com
 
 <!---
 Joiacs/Joiacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
