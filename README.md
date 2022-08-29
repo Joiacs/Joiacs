@@ -22,7 +22,7 @@ My name is Joseph and I'm from Canada.
   </a>
 </p>
 
-- 📫 You can reach me at my email, josephiacono5@gmail.com, or connect with me on [LinkedIn](www.linkedin.com/in/joseph-iacono-9873b524a)
+- 📫 You can reach me at my email, josephiacono5@gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-iacono-9873b524a/)
 
 <!---
 Joiacs/Joiacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
